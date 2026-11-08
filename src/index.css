@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #141322;
+  color: #F5F4FF;
+}
+h1, h2, h3 {
+  font-family: 'DM Serif Display', serif;
+}
